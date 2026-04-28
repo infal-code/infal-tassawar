@@ -1,7 +1,7 @@
 Salut, moi c'est infal tassawar 👋
 
 🎓 Étudiant en management & Digitalization, Artifical Intelligence and Big Data
-🔍 En recherche d'alternance
+🔍 En recherche d'alternance pour 2 ans 
 📍 Paris, France
 
 ## 🧰 Mes compétences
