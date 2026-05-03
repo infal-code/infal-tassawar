@@ -13,7 +13,7 @@ Salut, moi c'est infal tassawar 👋
 ## 📂 Mes projets
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🔜 Spam Detector | Classification de mails | Python, scikit-learn |
+| Spam Detector | Classification de mails | Python, scikit-learn |
 | 🔜 ETL Pipeline | Pipeline de données | PySpark, Python |
 
 ## 📫 Me contacter
